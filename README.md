@@ -3,27 +3,6 @@
 [![Build
 Status](https://travis-ci.org/cjmathy/bmi203_hw3.svg?branch=master)](https://travis-ci.org/cjmathy/bmi203_hw3)
 
-
-
-## structure
-
-CHANGE THIS The main file that you will need to modify is `cluster.py` and the corresponding `test_cluster.py`. `utils.py` contains helpful classes that you can use to represent Active Sites. `io.py` contains some reading and writing files for interacting with PDB files and writing out cluster info.
-
-```
-.
-├── README.md
-│   ...
-├── bmi203_hw2
-│   ├── __init__.py
-│   ├── __main__.py
-│   ├── cluster.py
-│   ├── io.py
-│   └── utils.py
-└── test
-    ├── test_cluster.py
-    └── test_io.py
-```
-
 ## usage
 
 To use the package, first run
