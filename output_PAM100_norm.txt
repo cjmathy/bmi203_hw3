@@ -1,0 +1,604 @@
+~~Positive Pairs
+#New Alignment
+Sequence 1: sequences/prot-0004.fa
+Sequence 2: sequences/prot-0008.fa
+ASAAWGTAGPEFFMALFD
+PPEVW_T___DFWK_LFE
+Score = 0.225352
+#New Alignment
+Sequence 1: sequences/prot-0031.fa
+Sequence 2: sequences/prot-0034.fa
+DLEDNMETLNDNLKVIEKADNAAQVKDALTKMRAA
+SFKQKQQAFQDN__IV_KL_SAAADAGDLDKLRAA
+Score = 0.320755
+#New Alignment
+Sequence 1: sequences/prot-0047.fa
+Sequence 2: sequences/prot-0050.fa
+L
+T
+Score = 0.231405
+#New Alignment
+Sequence 1: sequences/prot-0065.fa
+Sequence 2: sequences/prot-0069.fa
+CNACHGTG
+CAACH_MG
+Score = 0.349398
+#New Alignment
+Sequence 1: sequences/prot-0077.fa
+Sequence 2: sequences/prot-0082.fa
+QIAEFKEAFALFDKDGDGTITTKELGTVMRSLGQNPTEAELQDMINE_VDADGNGTIDFPEFLSL
+QDNDFEDMMTRYKEVNKGSL_S_D_ADY_KSM_QASLEDEWRDL_KGRADINKDDVVSWEEYLAM
+Score = 0.283784
+#New Alignment
+Sequence 1: sequences/prot-0098.fa
+Sequence 2: sequences/prot-0102.fa
+QAQGLGSNLVTEVRVYNWFANR
+Q_QGLGASHISKTM__N_IA_R
+Score = 0.720930
+#New Alignment
+Sequence 1: sequences/prot-0124.fa
+Sequence 2: sequences/prot-0125.fa
+KNSGYEGPWGAANNVFTNEF
+NDSV_D_PR_IA_NVFTNAF
+Score = 0.146758
+#New Alignment
+Sequence 1: sequences/prot-0166.fa
+Sequence 2: sequences/prot-0177.fa
+KKGDTVELTCTA
+KKA_TIAANCST
+Score = 0.257732
+#New Alignment
+Sequence 1: sequences/prot-0170.fa
+Sequence 2: sequences/prot-0173.fa
+RKSLETKSLEV
+RK_LE_KGIQV
+Score = 0.333333
+#New Alignment
+Sequence 1: sequences/prot-0175.fa
+Sequence 2: sequences/prot-0178.fa
+SEGK
+APGK
+Score = 0.340659
+#New Alignment
+Sequence 1: sequences/prot-0187.fa
+Sequence 2: sequences/prot-0190.fa
+NAPKLTGITCQADKAEIHWE
+NVS_LTGIH__AD_IQVRWE
+Score = 0.420000
+#New Alignment
+Sequence 1: sequences/prot-0240.fa
+Sequence 2: sequences/prot-0242.fa
+RITYLTETKIDKLC
+RL__LSSTN_SRLC
+Score = 0.271845
+#New Alignment
+Sequence 1: sequences/prot-0271.fa
+Sequence 2: sequences/prot-0275.fa
+LTAGHCTNISAS
+LTAAHCVHDAVS
+Score = 0.193370
+#New Alignment
+Sequence 1: sequences/prot-0298.fa
+Sequence 2: sequences/prot-0300.fa
+SKFLGFWYEIAFASK
+DAFLGTW_KLV_DSK
+Score = 0.236641
+#New Alignment
+Sequence 1: sequences/prot-0326.fa
+Sequence 2: sequences/prot-0327.fa
+VALSNKGEYSFYCSPHQGAGMVGKVTV
+VKFDKEGVYGFKCAPHYMMGMVALVVV
+Score = 0.525253
+#New Alignment
+Sequence 1: sequences/prot-0354.fa
+Sequence 2: sequences/prot-0355.fa
+VLPRTPGNNVYVGFMVW
+ML_QI_GDSL_VG_L_W
+Score = 0.154286
+#New Alignment
+Sequence 1: sequences/prot-0357.fa
+Sequence 2: sequences/prot-0360.fa
+STTFDVLLGISQN
+AASFQVALAVADN
+Score = 0.201342
+#New Alignment
+Sequence 1: sequences/prot-0361.fa
+Sequence 2: sequences/prot-0364.fa
+WACLEYRPNPNAMLYQFGHDSPPCDEVALQEYRTV
+WS_LDYM_D_N_V_NPFNH__HR_NA_GL_RYRSM
+Score = 0.146104
+#New Alignment
+Sequence 1: sequences/prot-0369.fa
+Sequence 2: sequences/prot-0370.fa
+SLSEGRTPQVYSAGPGTSN_QISFV
+NLSD_RVSQD_TAGNTVTNTQST_V
+Score = 0.160643
+#New Alignment
+Sequence 1: sequences/prot-0380.fa
+Sequence 2: sequences/prot-0384.fa
+IRNMVWFRNVVDG
+LRSSIW_RNVI_G
+Score = 0.125000
+#New Alignment
+Sequence 1: sequences/prot-0384.fa
+Sequence 2: sequences/prot-0392.fa
+FYNDYNIEDLGPKSNAVFN
+FYGAFDLKNLGHQT_AL_N
+Score = 0.129450
+#New Alignment
+Sequence 1: sequences/prot-0410.fa
+Sequence 2: sequences/prot-0412.fa
+RHFYDAL
+ER_YENL
+Score = 0.169355
+#New Alignment
+Sequence 1: sequences/prot-0459.fa
+Sequence 2: sequences/prot-0461.fa
+FDCPEDIMLERLLERGKTSGRSDDNIESIKK
+FD__ENIML_KYLE_GE_EPTEEELVAAIRK
+Score = 0.280612
+#New Alignment
+Sequence 1: sequences/prot-0465.fa
+Sequence 2: sequences/prot-0466.fa
+QNTQGLIFVVDSNDRERVNEAREELMRMLAEDELRDAVLLVFANKQDL_PNA__MNAAEI_T_DKL
+Q_MDGAILVVSAAD_GPMPQTREH_I_LLAR_QVGVPYIVVFMNKVDMVDDPELLDLVEMEVRDLL
+Score = 0.294444
+#New Alignment
+Sequence 1: sequences/prot-0484.fa
+Sequence 2: sequences/prot-0485.fa
+LDFPNLPYLIDGSRKITQSNAIMRYLAR
+L_YGQLPKFEDGDLTLYQSNAILRHLGR
+Score = 0.717949
+#New Alignment
+Sequence 1: sequences/prot-0507.fa
+Sequence 2: sequences/prot-0509.fa
+DVVTRYGIPEDFHITID
+EIITQFQ_PDYF__AIE
+Score = 0.202532
+#New Alignment
+Sequence 1: sequences/prot-0533.fa
+Sequence 2: sequences/prot-0534.fa
+SEFADFVQDVLKTD
+SD_AQFV_DVIHTD
+Score = 0.119497
+#New Alignment
+Sequence 1: sequences/prot-0570.fa
+Sequence 2: sequences/prot-0572.fa
+REDPRDAF_VSNNYD
+R__PRDA_DVAKKYD
+Score = 0.192308
+#New Alignment
+Sequence 1: sequences/prot-0580.fa
+Sequence 2: sequences/prot-0615.fa
+RIAPADGEVVIEKNRASAFPGTNLELFL
+RIA_A_GEM_LGKDQ____P_VILQL_L
+Score = 0.262069
+#New Alignment
+Sequence 1: sequences/prot-0582.fa
+Sequence 2: sequences/prot-0586.fa
+AALPGLGEWSYHRDYRETQITKLLK
+SALKA_GAWQ_VINYREEDLVERLK
+Score = 0.307692
+#New Alignment
+Sequence 1: sequences/prot-0583.fa
+Sequence 2: sequences/prot-0598.fa
+AKEVGATECVN
+AKELGGT_CVN
+Score = 0.273333
+#New Alignment
+Sequence 1: sequences/prot-0584.fa
+Sequence 2: sequences/prot-0611.fa
+AAEEIDPKKRVI
+SATGIDPDKKLV
+Score = 0.155080
+#New Alignment
+Sequence 1: sequences/prot-0586.fa
+Sequence 2: sequences/prot-0590.fa
+MVSFGNSSGAVTGVNLGILNQKGSLYVT
+MGRVGEP_GEIAGAVVKLLSDTSS_YVT
+Score = 0.307692
+#New Alignment
+Sequence 1: sequences/prot-0587.fa
+Sequence 2: sequences/prot-0606.fa
+PDKRSMWLADKTDQP
+PDKR___LADLIDRP
+Score = 0.197970
+#New Alignment
+Sequence 1: sequences/prot-0589.fa
+Sequence 2: sequences/prot-0591.fa
+QRPNLQVLTGQYVGKVLLS_QN
+EQAD_QV_TAE_VGK_LLGDQK
+Score = 0.190678
+#New Alignment
+Sequence 1: sequences/prot-0590.fa
+Sequence 2: sequences/prot-0610.fa
+GGSIVNISSAAGLMGLAL
+GGP_V_ISSTEALAPKAL
+Score = 0.286957
+#New Alignment
+Sequence 1: sequences/prot-0592.fa
+Sequence 2: sequences/prot-0601.fa
+LQNGHDVIILDNLCNSKRSVLPVIERLGGKH
+LEAGWNA___ASL_H_KKRV_AVID_L_QKH
+Score = 0.153527
+#New Alignment
+Sequence 1: sequences/prot-0594.fa
+Sequence 2: sequences/prot-0596.fa
+GTSYDTAAELQNDLENAFDDNQLFRIDHYLGXEPYERMIHDTMN
+GAG_KTGVTVQSSLDAV__KDD_F__DVFI__D_FTR_PEGTLN
+Score = 0.190184
+#New Alignment
+Sequence 1: sequences/prot-0595.fa
+Sequence 2: sequences/prot-0620.fa
+AVNDLTDANTLAHLL
+AVDNFIE__KLVPLL
+Score = 0.168605
+#New Alignment
+Sequence 1: sequences/prot-0597.fa
+Sequence 2: sequences/prot-0621.fa
+AYDLEAMHVGTVAAGRIG
+AYGT_KM_VGGVTPGK_G
+Score = 0.272727
+#New Alignment
+Sequence 1: sequences/prot-0600.fa
+Sequence 2: sequences/prot-0605.fa
+AGEPNINEGYYDLPN
+GGNTAVEEALY_LSN
+Score = 0.230159
+#New Alignment
+Sequence 1: sequences/prot-0602.fa
+Sequence 2: sequences/prot-0616.fa
+GAEADYDVVML_AIG
+GAAAGYNIA_LRDIA
+Score = 0.282051
+#New Alignment
+Sequence 1: sequences/prot-0605.fa
+Sequence 2: sequences/prot-0615.fa
+NGNIILHTNRTLEEVT
+NGKIFTEQGRALAEVA
+Score = 0.277778
+#New Alignment
+Sequence 1: sequences/prot-0609.fa
+Sequence 2: sequences/prot-0611.fa
+LKKHGVKVVHGWAKVLD
+LRAHGIQVVHDSATGID
+Score = 0.208556
+#New Alignment
+Sequence 1: sequences/prot-0614.fa
+Sequence 2: sequences/prot-0616.fa
+EDATPALEGADVVLISAGVRRKPGMDRSDLFNVNAGIVKNLVQ
+ED_T_A__GSDVVVITAGIPRQPGQTRIDLAGDNAPIMED_IQ
+Score = 0.695312
+#New Alignment
+Sequence 1: sequences/prot-0659.fa
+Sequence 2: sequences/prot-0661.fa
+GSTDYGILQINSR
+GN_GFGLMQVDKR
+Score = 0.255814
+#New Alignment
+Sequence 1: sequences/prot-0735.fa
+Sequence 2: sequences/prot-0736.fa
+FMARRGFLPMTLP
+FMVARGFMEVETP
+Score = 0.122186
+#New Alignment
+Sequence 1: sequences/prot-0776.fa
+Sequence 2: sequences/prot-0779.fa
+LDSARFRYVLSEEFDAPVQNVEGTILGEHGDAQVPVFSKVRVDGTDPEFSGDEKEQLLGDLQESAMDVIERKGATEWGPARGVAHMVEAILHDTGEVLPASVKLEGEFGHEDTAFGVPVRLGSNGVEEIVEWDLDDYEQD
+LDTARFRFLLGEYFSVAPQNVHAYIIGEHGDTELPVWSQAYIGVM_PI___D_LERIFVNVRDAAYQIIEKKGATYYGIAMGLARVTRAILHNENAILTVSAYLDGLYGERDVYIGVPAVINRNGIREVIEIELNDDEKN
+Score = 1.589744
+#New Alignment
+Sequence 1: sequences/prot-0829.fa
+Sequence 2: sequences/prot-0832.fa
+CAEKEKTFCVNGGECFMVKDLSNPSRYLCKCQPGFTGARC
+C_E_GHP_CLNQGHCK___D_GIGD_YTCTCAEGFEGKNC
+Score = 0.976190
+#New Alignment
+Sequence 1: sequences/prot-0860.fa
+Sequence 2: sequences/prot-0862.fa
+CTKCHK
+CSKCRK
+Score = 0.704545
+~~Negative Pairs
+#New Alignment
+Sequence 1: sequences/prot-0018.fa
+Sequence 2: sequences/prot-0198.fa
+PADEEMLFIY
+PQDRESLF_Y
+Score = 0.337209
+#New Alignment
+Sequence 1: sequences/prot-0035.fa
+Sequence 2: sequences/prot-0071.fa
+VTYAKNWLVNH
+PT_AEM_LTNN
+Score = 0.275000
+#New Alignment
+Sequence 1: sequences/prot-0056.fa
+Sequence 2: sequences/prot-0826.fa
+LEQFAKTFKQRRIKL
+LARFC_SWMEEVIKL
+Score = 0.431373
+#New Alignment
+Sequence 1: sequences/prot-0075.fa
+Sequence 2: sequences/prot-0561.fa
+KIHENEKRLEAGDHPVEL
+KVLKGEK_VQA_KYPVDL
+Score = 0.218543
+#New Alignment
+Sequence 1: sequences/prot-0093.fa
+Sequence 2: sequences/prot-0091.fa
+IPPKCGVNLPY
+IGPKC_VK_AF
+Score = 0.461538
+#New Alignment
+Sequence 1: sequences/prot-0110.fa
+Sequence 2: sequences/prot-0613.fa
+LELLSDSAN
+LELVGATVN
+Score = 0.234694
+#New Alignment
+Sequence 1: sequences/prot-0131.fa
+Sequence 2: sequences/prot-0547.fa
+DAFDRNPGLQNLLLDDFFKSAVENCQ
+DGSNQHPT_QT_LL_DLF_T_IQETQ
+Score = 0.260000
+#New Alignment
+Sequence 1: sequences/prot-0148.fa
+Sequence 2: sequences/prot-0369.fa
+LENEVARL
+L_HEVSSL
+Score = 0.677419
+#New Alignment
+Sequence 1: sequences/prot-0166.fa
+Sequence 2: sequences/prot-0839.fa
+TASQKKSIQFHW
+TTTGKKC_Q_SW
+Score = 0.303797
+#New Alignment
+Sequence 1: sequences/prot-0186.fa
+Sequence 2: sequences/prot-0014.fa
+TEDENQYSIG
+TEGEDR_T_G
+Score = 0.475000
+#New Alignment
+Sequence 1: sequences/prot-0206.fa
+Sequence 2: sequences/prot-0313.fa
+GSWFADSTTKYSNFETRPAR
+GSFIAHASTVFSRI_ARGER
+Score = 0.206667
+#New Alignment
+Sequence 1: sequences/prot-0228.fa
+Sequence 2: sequences/prot-0121.fa
+LLEQDGII
+LL_TD_II
+Score = 0.446809
+#New Alignment
+Sequence 1: sequences/prot-0244.fa
+Sequence 2: sequences/prot-0817.fa
+VQEL
+IQDL
+Score = 0.193878
+#New Alignment
+Sequence 1: sequences/prot-0262.fa
+Sequence 2: sequences/prot-0540.fa
+APSPWWTVVEG
+APDE_WIVIGG
+Score = 0.174699
+#New Alignment
+Sequence 1: sequences/prot-0286.fa
+Sequence 2: sequences/prot-0641.fa
+QTIYTPSKSTTAKLLSGATWSISYGDGSS
+HGLY___RS_SDK__TGGYWKITMNDGST
+Score = 0.376238
+#New Alignment
+Sequence 1: sequences/prot-0305.fa
+Sequence 2: sequences/prot-0785.fa
+TFGFTVNWKFSESTTVFTGQCFIDRNGKEVLKTMWLLRSS
+AYGYAQD_Q__EPDA__RGR__I_RN_GALLR_VYVPRSS
+Score = 0.206612
+#New Alignment
+Sequence 1: sequences/prot-0326.fa
+Sequence 2: sequences/prot-0712.fa
+DGSLAFVPSEFSIS
+EGN_PYVPVHFDAS
+Score = 0.303030
+#New Alignment
+Sequence 1: sequences/prot-0346.fa
+Sequence 2: sequences/prot-0063.fa
+TPIVFTNLAE
+KPVTLYDVAE
+Score = 0.666667
+#New Alignment
+Sequence 1: sequences/prot-0363.fa
+Sequence 2: sequences/prot-0345.fa
+ADGDALVVL
+GQGDAEIVL
+Score = 1.200000
+#New Alignment
+Sequence 1: sequences/prot-0380.fa
+Sequence 2: sequences/prot-0553.fa
+GSREFPAVPYSAWDFNDGKCKTASGG
+ASHN_PGGP_NG_DFGI_KFNISNGG
+Score = 0.147368
+#New Alignment
+Sequence 1: sequences/prot-0397.fa
+Sequence 2: sequences/prot-0470.fa
+IEEMLDTAHYVDQLKFDTLAVYENHFSNNGVVGAPLTVAGFLLGMTKNAKVASLNHVITTHHPVR
+IDNLL_CSQ_PDTGE_QALEICDA_LARSGA_VDVIVVDS_VAALTPKAEIEGLAARMMS_QAMR
+Score = 0.119342
+#New Alignment
+Sequence 1: sequences/prot-0414.fa
+Sequence 2: sequences/prot-0903.fa
+R
+K
+Score = 0.513514
+#New Alignment
+Sequence 1: sequences/prot-0431.fa
+Sequence 2: sequences/prot-0093.fa
+VQNEPDEAEQDCIEFGKK
+VQGGPGPSGQ_CCD_GVK
+Score = 0.322222
+#New Alignment
+Sequence 1: sequences/prot-0446.fa
+Sequence 2: sequences/prot-0424.fa
+AVARIREQVGDDKVIL_GLSGGVDSSVTAMLLH
+GVEHLYE_VGPGKV_LTGLTKRIVDTLTASALN
+Score = 0.205714
+#New Alignment
+Sequence 1: sequences/prot-0469.fa
+Sequence 2: sequences/prot-0609.fa
+LVAALAEMGKKVMIVGCDPKADSTRLI
+LVEGQA_LGGTCLNIGCIP___SKALI
+Score = 0.158371
+#New Alignment
+Sequence 1: sequences/prot-0486.fa
+Sequence 2: sequences/prot-0314.fa
+RWLLAAAGVEFEEKF
+RW_INNDVLIYERKF
+Score = 0.341772
+#New Alignment
+Sequence 1: sequences/prot-0503.fa
+Sequence 2: sequences/prot-0454.fa
+PWRRTVGTDN
+PWQQ_ISAED
+Score = 0.187097
+#New Alignment
+Sequence 1: sequences/prot-0520.fa
+Sequence 2: sequences/prot-0088.fa
+LEQWQTLAQLSVEKGWLPLFDFAY
+LIH_QVLAPGCLDN__FPLL_SAY
+Score = 0.221374
+#New Alignment
+Sequence 1: sequences/prot-0536.fa
+Sequence 2: sequences/prot-0452.fa
+ITKSFARIH
+I_RSYGKIH
+Score = 0.128319
+#New Alignment
+Sequence 1: sequences/prot-0552.fa
+Sequence 2: sequences/prot-0460.fa
+SV
+SI
+Score = 0.356322
+#New Alignment
+Sequence 1: sequences/prot-0571.fa
+Sequence 2: sequences/prot-0711.fa
+EIAFSDKLYAAD
+E_A_SDKLLAAN
+Score = 0.129707
+#New Alignment
+Sequence 1: sequences/prot-0595.fa
+Sequence 2: sequences/prot-0503.fa
+AALKNPDIEVVAV
+AA_RYPDAELVDV
+Score = 0.187097
+#New Alignment
+Sequence 1: sequences/prot-0616.fa
+Sequence 2: sequences/prot-0819.fa
+IDLAGDNAPIMEDIQSSLDEHNDDYISLTTSNPVDLLNRH
+I_LSVANPGDGDKVKTA__EHENQYFRDVVGYSIGALSIH
+Score = 0.242188
+#New Alignment
+Sequence 1: sequences/prot-0631.fa
+Sequence 2: sequences/prot-0386.fa
+VREIGYVHSDGFDANSCAVLSAIGKQ
+VRDGAYGYQNLFDTTVDAFYTAMGKH
+Score = 0.353535
+#New Alignment
+Sequence 1: sequences/prot-0648.fa
+Sequence 2: sequences/prot-0022.fa
+EEFAAAVK
+DDYDRAVK
+Score = 0.301370
+#New Alignment
+Sequence 1: sequences/prot-0665.fa
+Sequence 2: sequences/prot-0100.fa
+LSTPNQDNPVMEGFTPIVGIDVWEHAYYLKYQNRR
+LSAPEREH__LASMIHLTPTQV_K____IWFQNHR
+Score = 0.397059
+#New Alignment
+Sequence 1: sequences/prot-0682.fa
+Sequence 2: sequences/prot-0873.fa
+CESCVEIAPGAFAMDP
+C_RCSDI_RNDFCYEP
+Score = 0.750000
+#New Alignment
+Sequence 1: sequences/prot-0699.fa
+Sequence 2: sequences/prot-0760.fa
+EVDEARELTKIAYPVALFDRNI
+EQEEAEEILDVTYSGA__EMEI
+Score = 0.262295
+#New Alignment
+Sequence 1: sequences/prot-0716.fa
+Sequence 2: sequences/prot-0710.fa
+AQNRKYTIKVEVPKVATQTVG
+AHHRH___KVDAPSGTALAMG
+Score = 0.263636
+#New Alignment
+Sequence 1: sequences/prot-0734.fa
+Sequence 2: sequences/prot-0108.fa
+RHVMLPKAML
+R_I_L_K_ML
+Score = 0.352941
+#New Alignment
+Sequence 1: sequences/prot-0750.fa
+Sequence 2: sequences/prot-0875.fa
+QQDPEGNK
+HADPICNK
+Score = 0.405405
+#New Alignment
+Sequence 1: sequences/prot-0772.fa
+Sequence 2: sequences/prot-0886.fa
+MAKSIAECGQ
+MSNK__NCAQ
+Score = 0.446809
+#New Alignment
+Sequence 1: sequences/prot-0791.fa
+Sequence 2: sequences/prot-0245.fa
+YARNLAF
+YGRGLAY
+Score = 0.218978
+#New Alignment
+Sequence 1: sequences/prot-0805.fa
+Sequence 2: sequences/prot-0261.fa
+RDHKGIYDKELIDELLSLGITGA
+KNDGSIY__SLYDDMV_MDVKGS
+Score = 0.244094
+#New Alignment
+Sequence 1: sequences/prot-0821.fa
+Sequence 2: sequences/prot-0591.fa
+GIVGAYGAADRTNLQE_AQPLG
+GMIG_YGMA_KGAVHQLCQSLA
+Score = 0.148305
+#New Alignment
+Sequence 1: sequences/prot-0843.fa
+Sequence 2: sequences/prot-0026.fa
+G
+A
+Score = 0.416667
+#New Alignment
+Sequence 1: sequences/prot-0860.fa
+Sequence 2: sequences/prot-0510.fa
+KGTYLYNDCP
+KPSY_YLD_P
+Score = 0.416667
+#New Alignment
+Sequence 1: sequences/prot-0878.fa
+Sequence 2: sequences/prot-0524.fa
+MYDC
+VY_C
+Score = 0.615385
+#New Alignment
+Sequence 1: sequences/prot-0900.fa
+Sequence 2: sequences/prot-0264.fa
+ICRLKKLKCSKE
+LC_VKRLIYTND
+Score = 0.560976
+#New Alignment
+Sequence 1: sequences/prot-0915.fa
+Sequence 2: sequences/prot-0407.fa
+LARDPNADGEFVFAVR
+LARDR__SVD_VFSLK
+Score = 0.304348
+
+threshold = 0.192308, false positive rate = 0.820000
